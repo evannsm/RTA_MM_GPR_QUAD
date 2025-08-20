@@ -1,4 +1,4 @@
-### Runtime Assurance with Mixed Monotonicity for Partialy Unkown Systems with Gaussian Proccess Regressions for Quadrotor
+### Runtime Assurance with Mixed Monotonicity for Partialy Unkown Systems with Gaussian Proccess Regressions for Planar Quadrotor
 
 
 #### My Version of the JAX-ified version of the code that runs the numerical planar quadrotor sim of this paper [pdf here](https://coogan.ece.gatech.edu/papers/pdf/cao2024tracking.pdf): 
